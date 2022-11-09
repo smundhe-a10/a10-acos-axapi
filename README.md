@@ -15,6 +15,8 @@
 
 8. [Issues and Inquiries](#Issues-and-Inquiries)
 
+9. [Test Cases](#Test-Cases)
+
 ## Overview
 
 #### Summary
@@ -369,6 +371,26 @@ $ ansible-playbook -i <path_to_inventory> <playbook_name>.yml --check-mode
 
 ```
 $ ansible-doc -M <collection-dir-path> <module_name>
+```
+
+## Test Cases
+Sample test cases added for the following configurations:
+  - Bgp
+  - Check Mode
+  - Class List
+  - Default Gateway
+  - files
+  - Gslb
+  - Health
+  - Network
+  - Slb
+  - Slb Template
+  
+### Run test cases
+To test configurations on the acos using ansible playbooks goto ``` test ``` directory and use the following command:
+```bash
+sh run_test_playbooks.sh
+
 ```
 
 
