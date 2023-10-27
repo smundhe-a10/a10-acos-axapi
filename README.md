@@ -116,6 +116,7 @@ action_plugins  = <collection-dir-path>/a10/acos_axapi/plugins/action
 
 ## How to use A10 Ansible module collections
 Ansible collections are a powerful way to organize and distribute Ansible content, such as roles, modules, and plugins.
+
 Action and module names are formatted based upon their API endpoint. For example, the virtual server endpoint is as follows: /axapi/v3/slb/virtual-server. As such, the action name is a10_slb_virtual_server and the module is a10_slb_virtual_server.py.
 
 **Note that when getting information, changes made to the playbook will not result in a create, update or delete as the state has been put into no-op.
