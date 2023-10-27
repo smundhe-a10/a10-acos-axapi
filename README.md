@@ -11,7 +11,7 @@
 
 6. [How to use A10 Ansible module collections](#How-to-use-A10-Ansible-module-collections)
 
-7. [How to search Ansible module configuration](#How-to-search-Ansible-module-configuration)
+7. [How to search Ansible module configurations](#How-to-search-Ansible-module-configurations)
 
 8. [How to create new Ansible playbook example](#How-to-create-new-Ansible-playbook-example)
 
@@ -279,7 +279,7 @@ $ ansible-playbook -i <path_to_inventory> <playbook_name>.yml --check-mode
 ```
 
 
-## How to search Ansible module configuration
+## How to search Ansible module configurations
 To search for a Ansible Module Configuration in the existing examples, perform the following steps:
 
   1. Search the required Ansible Module configuration script directory navigate to examples > single_task directory.
