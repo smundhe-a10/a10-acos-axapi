@@ -19,7 +19,7 @@
 
 10. [How to verify on Thunder](#How-to-verify-on-Thunder)
 
-11. [How to change Thunder password](#How-to-change-Thunder-password)
+11. [How to change Thunder Password](#How-to-change-Thunder-Password)
 
 12. [How to contribute](#How-to-contribute)
 
@@ -419,7 +419,7 @@ ansible-playbook -i <path_to_inventory> <name_of_playbook>
 
         ![image](https://github.com/smundhe-a10/terraform-provider-thunder/assets/107971633/ae37e53d-c650-43f0-b71f-2416f4e5d65a)
 
-## How to change Thunder password
+## How to change Thunder Password
 ```
 Please refer : /examples/single_task/admin/adminPassword/README.md
 ```
