@@ -19,7 +19,7 @@
 
 10. [How to verify on Thunder](#How-to-verify-on-Thunder)
 
-11. [How to change Thunder Password](#How-to-change-Thunder-Password)
+11. [How to change Thunder password](#How-to-change-Thunder-password)
 
 12. [How to contribute](#How-to-contribute)
 
